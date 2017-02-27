@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/glass.bmp</file>
+        <file>image/icon.ico</file>
+        <file>image/icon.png</file>
+        <file>image/exit.ico</file>
+        <file>image/person.ico</file>
+        <file>image/jupiter.png</file>
+        <file>image/mars.png</file>
+        <file>image/mercury.png</file>
+        <file>image/neptune.png</file>
+        <file>image/ouster.png</file>
+        <file>image/saturn.png</file>
+        <file>image/sun.png</file>
+        <file>image/venus.png</file>
+        <file>image/head.bmp</file>
+        <file>image/openDICOM_DIR.ico</file>
+        <file>image/openVTK.ico</file>
+    </qresource>
+</RCC>
